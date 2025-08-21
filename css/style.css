@@ -47,7 +47,7 @@ p {
 
 #link-input:focus {
     outline: none;
-    border-color: #007BFF;
+    border-color: #078f3b;
 }
 
 
@@ -64,7 +64,7 @@ p {
 }
 
 #gerar-btn:hover {
-    background-color: #033014;
+    background-color: #033818;
 }
 
 
